@@ -1,0 +1,35 @@
+{
+ "id": "l10",
+ "name": "Arkadna igraonica",
+ "sky": [
+  0.004,
+  0.003,
+  0.008
+ ],
+ "sky_strength": 1,
+ "fog": [
+  0.014,
+  0.008,
+  0.02,
+  0.014
+ ],
+ "ambient": [
+  0.5,
+  0.38,
+  0.66,
+  0.06
+ ],
+ "exposure": 1.1,
+ "bounds": [
+  -9,
+  -11,
+  27,
+  11
+ ],
+ "lm": {
+  "scale": 2.99116849899292,
+  "file": "l10_lm.webp"
+ },
+ "lmMul": 2,
+ "version": "mv2blx2v"
+}

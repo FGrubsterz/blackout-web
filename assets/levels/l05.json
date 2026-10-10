@@ -1,0 +1,34 @@
+{
+ "id": "l05",
+ "name": "Trgovina elektronike",
+ "sky": [
+  0.003,
+  0.004,
+  0.007
+ ],
+ "sky_strength": 1,
+ "fog": [
+  0.01,
+  0.012,
+  0.018,
+  0.024
+ ],
+ "ambient": [
+  0.4,
+  0.46,
+  0.6,
+  0.05
+ ],
+ "exposure": 1,
+ "bounds": [
+  -5.5,
+  -11.5,
+  31.5,
+  11.5
+ ],
+ "lm": {
+  "scale": 0.6750476956367493,
+  "file": "l05_lm.webp"
+ },
+ "version": "mv2bwtw8"
+}

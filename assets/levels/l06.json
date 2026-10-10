@@ -1,0 +1,34 @@
+{
+ "id": "l06",
+ "name": "Sigurnosna soba i skladište",
+ "sky": [
+  0.004,
+  0.006,
+  0.012
+ ],
+ "sky_strength": 1,
+ "fog": [
+  0.01,
+  0.012,
+  0.016,
+  0.03
+ ],
+ "ambient": [
+  0.42,
+  0.48,
+  0.6,
+  0.05
+ ],
+ "exposure": 1,
+ "bounds": [
+  -1,
+  -7,
+  43,
+  18.5
+ ],
+ "lm": {
+  "scale": 0.4298413395881653,
+  "file": "l06_lm.webp"
+ },
+ "version": "mv2cbgq4"
+}
